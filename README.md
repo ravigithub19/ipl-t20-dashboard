@@ -3,6 +3,37 @@
 ## Overview
 A mobile-first, responsive web application that provides real-time IPL T20 updates—featuring live match info, upcoming matches, points table, and the full season schedule. Built with React.js, JavaScript/TypeScript, and Tailwind CSS.
 
+## Demo
+[Vercel Live Preview](https://ipl-t20-dashboard-three.vercel.app/)
+
+## Screenshots
+#### Landing:
+![alt text](image.png)
+
+#### Live Score:
+![alt text](image-1.png)
+
+#### Points Table:
+![alt text](image-2.png)
+
+#### Teams:
+![alt text](image-3.png)
+
+#### Players:
+![alt text](image-4.png)
+
+#### Stadiums:
+![alt text](image-5.png)
+
+#### Results-1:
+![alt text](image-6.png)
+
+#### Results-2:
+![alt text](image-8.png)
+
+#### Matches:
+![alt text](image-9.png)
+
 ### 🎨 **User Interface (UI)**
 
 - Mobile-first layout for a seamless small-screen experience.

@@ -1,0 +1,37 @@
+[
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/Chennai-new.jpg",
+        "name": "Chepauk Stadium, Chennai",
+        "capacity": "33500"
+    },
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/Narendra-new.jpg",
+        "name": "Narendra Modi Stadium, Ahmedabad",
+        "capacity": "110000"
+    },
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/eden-garden-small-new.jpg",
+        "name": "Eden Gardens, Kolkata",
+        "capacity": "80000"
+    },
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/Wankhede-Stadium-new.jpg",
+        "name": "Wankhede Stadium, Mumbai",
+        "capacity": "33108"
+    },
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/M.Chinnaswamy-Stadium.jpg",
+        "name": "M. Chinnaswamy Stadium, Chennai",
+        "capacity": "40000"
+    },
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/Arun-Jaitley-Stadium-Delhi.jpg",
+        "name": "Arun Jaitley Stadium, Delhi",
+        "capacity": "55000"
+    },
+    {
+        "image": "https://www.iplt20.com/assets/images/stadiumimage/DY-Patil-Stadium.jpg",
+        "name": "DY Patil Stadium, Mumbai",
+        "capacity": "55000"
+    }
+]
